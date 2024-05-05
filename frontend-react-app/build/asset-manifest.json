@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac3e291e.css",
-    "main.js": "/static/js/main.1a7b4ffc.js",
-    "static/media/t.jpeg": "/static/media/t.92a8f587d61dd0db47e6.jpeg",
-    "static/media/mental-health.jpeg": "/static/media/mental-health.5661a5b381aef80195a1.jpeg",
-    "static/media/gym.jpeg": "/static/media/gym.7629c9ef6e6d02695fee.jpeg",
-    "static/media/gro.jpeg": "/static/media/gro.5c8852feb42192d7867c.jpeg",
-    "static/media/eat.jpeg": "/static/media/eat.822fc3bfdb451eaf0cdf.jpeg",
-    "static/media/sport.png": "/static/media/sport.2b274261238a8bbb7439.png",
-    "index.html": "/index.html",
-    "main.ac3e291e.css.map": "/static/css/main.ac3e291e.css.map",
-    "main.1a7b4ffc.js.map": "/static/js/main.1a7b4ffc.js.map"
+    "main.css": "./src/static/css/main.ac3e291e.css",
+    "main.js": "./src/static/js/main.eec92064.js",
+    "static/media/t.jpeg": "./src/static/media/t.92a8f587d61dd0db47e6.jpeg",
+    "static/media/mental-health.jpeg": "./src/static/media/mental-health.5661a5b381aef80195a1.jpeg",
+    "static/media/gym.jpeg": "./src/static/media/gym.7629c9ef6e6d02695fee.jpeg",
+    "static/media/gro.jpeg": "./src/static/media/gro.5c8852feb42192d7867c.jpeg",
+    "static/media/eat.jpeg": "./src/static/media/eat.822fc3bfdb451eaf0cdf.jpeg",
+    "static/media/sport.png": "./src/static/media/sport.2b274261238a8bbb7439.png",
+    "index.html": "./src/index.html",
+    "main.ac3e291e.css.map": "./src/static/css/main.ac3e291e.css.map",
+    "main.eec92064.js.map": "./src/static/js/main.eec92064.js.map"
   },
   "entrypoints": [
     "static/css/main.ac3e291e.css",
-    "static/js/main.1a7b4ffc.js"
+    "static/js/main.eec92064.js"
   ]
 }
